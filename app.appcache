@@ -1,0 +1,50 @@
+CACHE MANIFEST 
+# v201512040129
+# ===========cache static resouce
+# p1
+img/p1/bg.png
+
+
+
+# other
+img/share-icon.jpg
+img/transparent.png
+
+# media
+media/audio/music-icon.png
+media/audio/music-icon-s.mp3
+
+
+# css
+css/app.css
+
+# js
+js/jquery/jquery-2.1.4.min.js
+js/motion/landscape.min.js
+js/motion/landscape.png
+js/motion/loader.min.js
+js/motion/overlay.min.js
+js/motion/film.min.js
+js/swiper/animate.min.css
+js/swiper/swiper.animate1.0.2.min.js
+js/swiper/swiper.jquery.min.js
+js/swiper/swiper.min.css
+js/swiper/swiper.min.js
+js/zepto/zepto.min.js
+js/qrcode/qrcode.min.js
+js/app.js
+
+
+
+# ===========Use from network if available 
+NETWORK: 
+db
+tracking
+weChat
+http://res.wx.qq.com
+http://open.weixin.qq.com
+https://api.weixin.qq.com
+http://wx.qlogo.cn
+
+# ===========Fallback content 
+FALLBACK: 
